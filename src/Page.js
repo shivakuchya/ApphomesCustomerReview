@@ -129,7 +129,7 @@ function Page() {
 
     return (<>
         <div className="container" >
-            <div className="headercontainer row p-3 " style={{ borderBottom: "2px solid gray", boxShadow: "0 0 5px gray" }}>
+            <div className="headercontainer fixed-top bg-white row p-3 " style={{ borderBottom: "2px solid gray", boxShadow: "0 0 5px gray" }}>
                 <div className="col-6">
                     <div className="form-group">
                         <label>Select Product</label>
